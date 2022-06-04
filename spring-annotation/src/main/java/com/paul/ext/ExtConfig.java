@@ -1,4 +1,4 @@
-package com.paul.service.ext;
+package com.paul.ext;
 
 import com.paul.bean.Blue;
 import org.springframework.context.annotation.Bean;

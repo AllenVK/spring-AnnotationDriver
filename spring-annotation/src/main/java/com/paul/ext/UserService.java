@@ -1,4 +1,4 @@
-package com.paul.service.ext;
+package com.paul.ext;
 
 import org.springframework.context.ApplicationEvent;
 import org.springframework.context.event.EventListener;

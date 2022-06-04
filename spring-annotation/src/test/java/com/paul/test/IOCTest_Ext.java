@@ -1,6 +1,6 @@
 package com.paul.test;
 
-import com.paul.service.ext.ExtConfig;
+import com.paul.ext.ExtConfig;
 import org.junit.Test;
 import org.springframework.context.ApplicationEvent;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
